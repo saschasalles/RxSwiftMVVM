@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Blue Legume",
+        "cuisine": "European"
+    },
+    {
+        "name": "Fig & Olive",
+        "cuisine": "European"
+    },
+    {
+        "name": "Walk to Wok",
+        "cuisine": "Asian"
+    },
+    {
+        "name": "La famosa Carmen",
+        "cuisine": "Spanish"
+    },
+    {
+        "name": "Oaxen Slip",
+        "cuisine": "Swedish"
+    },
+    {
+        "name": "El sombrero",
+        "cuisine": "Mexican"
+    },
+    {
+        "name": "Krusty Burger",
+        "cuisine": "American"
+    },
+    {
+        "name": "LA Table d'hôtes",
+        "cuisine": "French"
+    }
+]
